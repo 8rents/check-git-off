@@ -17,8 +17,4 @@
 
 Maybe scrape user names out of commits.
 
-- Brent (8rents@gmail.com)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTYyNzQxMiwxNTU2MTkyMzAxXX0=
--->
+- Brent (8rents-imaginary-email@github.com)
