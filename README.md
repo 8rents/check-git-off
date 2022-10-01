@@ -1,2 +1,3 @@
 # checkedit
-A node todo manager for development projects. Integrates with git to auto commit based on todos. 
+
+> #### *Manage Git with a markdown todo list! Auto commit to a git repo by checking off todo list items. Built in node.js*
